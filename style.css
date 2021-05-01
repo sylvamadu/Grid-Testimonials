@@ -31,12 +31,19 @@ body,html{
     margin-right: .8rem;
     border: 3px solid white;
 }
+.quote{
+    position: absolute;
+    right: 0.9em;
+    top: 3.7em;
+    height: 4em;
+}
 .name-block p{
     margin-top: -1em;
     color: hsl(0, 0%, 59%);
 }
 .purple{
     background: hsl(263, 55%, 52%);
+    position: relative;
 }
 .gray{
     background: hsl(217, 19%, 35%);
